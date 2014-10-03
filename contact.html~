@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Agrima Seth</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" name="Agrima Seth"  />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="iecss.css" />
+<![endif]-->
+</head>
+<body>
+<div id="main_container">
+  <div id="header">
+    <div id="logo"><a href=""><img src="images/logo.png" width="358" height="40" alt="" border="0" /></a></div>
+    <div id="menu">
+      <ul>
+        <li><a class="current">home</a></li>
+        <li><a href="about.html">about me</a></li>
+        <li><a href="">my photos</a></li>
+        <li><a href="">my projects</a></li>
+        <li><a href="contact.html">contact</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="middle_box">
+    <div class="middle_box_content">
+      <div class="welcome_title"><img src="images/welcome_title.gif" alt="" /></div>
+      <p class="about_text">To contact me, kindly check the following sections</p>
+    </div>
+  </div>
+  <div id="center_content">
+    <div class="left_content">
+      <div class="title_photos">My email-ids</div>
+      <div class="friends_list">
+        <ul>
+          <li>agrimaseth_12528@aitpune.edu.in</li>
+          <li>sethagrima@gmail.com</li>
+          <li>agrimaseth@yahoo.com</li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="right_content">
+      <div class="title_journal">Social Networks</div>
+      <div class="news_tab">
+        <h1>My Blog</h1>
+        <p> "My adventures, experiences and my love for writting  <a href="http://agrimaseth.wordpress.com/">looking through the glass"</a></p>
+        <div class="news_details"><span class="date"></span></div>
+      </div>
+     </div>
+	<div class="title_journal">Telephonic Connection</div>
+      <div class="news_tab">
+        <h1>Phone Number</h1>
+        <p> +917875594315</p>
+        <div class="news_details"><span class="date"></span></div>
+      </div>
+      
+    </div>
+	
+    <div class="clear"></div>
+  </div>
+  <div id="footer">
+    <div class="copyright"> <img src="images/footer_logo.gif" alt="" /> </div>
+  
+  </div>
+</div>
+<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>
+</html>
