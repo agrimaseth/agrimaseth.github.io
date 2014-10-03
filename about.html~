@@ -16,7 +16,7 @@
       <ul>
         <li><a href="index.html">home</a></li>
         <li><a class="current">about me</a></li>
-        <li><a href="">my photos</a></li>
+        
         <li><a href="">my projects</a></li>
         <li><a href="contact.html">contact</a></li>
       </ul>
@@ -30,7 +30,7 @@
   </div>
   <div id="center_content">
     <div class="left_content">
-      <div class="title_photos">Academic Achievements</div>
+      <div class="title_photos">Academic Execellence and Awards</div>
       <ol>
 	<li> Freshmen:
 		<ol>

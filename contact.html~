@@ -14,11 +14,11 @@
     <div id="logo"><a href=""><img src="images/logo.png" width="358" height="40" alt="" border="0" /></a></div>
     <div id="menu">
       <ul>
-        <li><a class="current">home</a></li>
+        <li><a href="index.html">home</a></li>
         <li><a href="about.html">about me</a></li>
-        <li><a href="">my photos</a></li>
-        <li><a href="">my projects</a></li>
-        <li><a href="contact.html">contact</a></li>
+       
+        <li><a href="projects">my projects</a></li>
+        <li><a class="current">contact</a></li>
       </ul>
     </div>
   </div>
@@ -47,7 +47,7 @@
         <p> "My adventures, experiences and my love for writting  <a href="http://agrimaseth.wordpress.com/">looking through the glass"</a></p>
         <div class="news_details"><span class="date"></span></div>
       </div>
-     </div>
+    
 	<div class="title_journal">Telephonic Connection</div>
       <div class="news_tab">
         <h1>Phone Number</h1>
