@@ -32,7 +32,7 @@
        <p>While working with Computer Graphics at IIST. I was assigned the task of studying various methods for re-creating the real world objects. To begin with I studied the Geomtric Modelling method. This required me to study various mathematical algorithms and concepts like bezier curve, fractals for successful re-creation of shapes and different lighting models like monte-carlos ray tracing method.</p>
 
 	<p>The reult for the same is displayed below:</p>
-	 <img src="/home/agrima/website/images/model.jpg" alt="The model could not be displayed" style="width:304px;height:228px">
+	 <img src="model.jpg" alt="The model could not be displayed" style="width:304px;height:228px">
 	<p>After the successful creation of the above environment. I decided to use 5dt Data Gloves to navigate through the system and to give an immersive 3D animation to it. I used the Vizard platform to perform the animation </p>
 	<p> After, the above implementation I came across some of the disadvantages of the said method and hence decided to try a different approach, i.e; <a href="proj2.html">Image Based Rendering 3d Warping technique</a></p>
       </div>
