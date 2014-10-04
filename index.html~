@@ -17,7 +17,7 @@
         <li><a class="current">home</a></li>
         <li><a href="about.html">about me</a></li>
         
-        <li><a href="">my projects</a></li>
+        <li><a href="projects.html">my projects</a></li>
         <li><a href="contact.html">contact</a></li>
       </ul>
     </div>
@@ -25,7 +25,7 @@
   <div id="middle_box">
     <div class="middle_box_content">
       <div class="welcome_title"><img src="images/welcome_title.gif" alt="" /></div>
-      <p class="about_text">Hi, I am Agrima. I am in my junior year of engineering at University of Pune, Army Institute of Technology Pune. to know more about me check the link below.</p>
+      <p class="about_text">Hi, I am Agrima. I am in my junior year of engineering at<a href="http://www.unipune.ac.in/"> University of Pune</a>,<a href="http://www.aitpune.com"> Army Institute of Technology Pune</a>.My discipline of study is Information Technology, to know more about me check the link below.</p>
       <a href="about.html" class="more"><img src="images/more_link.gif" alt=""  border="0" /></a> </div>
   </div>
   <div id="center_content">
@@ -43,27 +43,27 @@
     <div class="right_content">
       <div class="title_journal">Research Work</div>
       <div class="news_tab">
-        <h1>Geometric Modelling and Rendering</h1>
+        <h1><a href="proj1.html">Geometric Modelling and Rendering</a></h1>
         <p> "Recreating the real world using algorithms and mathematical models for the description of shapes. Subsequently using it for comparitive study with Image Based Rendering "</p>
         <div class="news_details"><span class="date">10.06.2014</span></div>
       </div>
       <div class="news_tab">
-        <h1>Image Based Rendering</h1>
+        <h1><a href="proj2.html">Image Based Rendering</a></h1>
         <p> "Use of multiple two-dimensional images to generate  novel three-dimensional images by 3-D Warping"</p>
         <div class="news_details"><span class="date">10.07.2014</span></div>
       </div>
       <div class="news_tab">
-	<h1> Solar Tracking System</h1>
+	<h1><a href="proj3.html"> Solar Tracking System</a></h1>
 	<p>"An embedded system to track the position of the sun throughout the day to increase the efficiency of the sunlight harvesting systems "</p>
         <div class="news_details"><span class="date">13.02.2008</span></div>
       </div>
       <div class="news_tab">
-	<h1> Online Examination Applicatiom</h1>
+	<h1><a href="proj4.html"> Online Examination Application</a></h1>
 	<p>"An automated system for conducting examinations online"</p>
         <div class="news_details"><span class="date">13.02.2008</span></div>
       </div>
       <div class="news_tab">
-	<h1> Library Management System</h1>
+	<h1> <a href="proj5.html">Library Management System</a></h1>
 	<p>"A web application to manage the library issue-reissue-return-availability system"</p>
         <div class="news_details"><span class="date">13.02.2008</span></div>
       </div>
