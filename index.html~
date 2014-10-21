@@ -11,7 +11,7 @@
 <body>
 <div id="main_container">
   <div id="header">
-    <div id="logo"><!--<a href=""><img src="images/logo.png" width="358" height="40" alt="" border="0" />--> <H2>AGRIMA SETH<H2></a></div>
+    <div id="logo"><!--<a href=""><img src="images/logo.png" width="358" height="40" alt="" border="0" />--> <H2>AGRIMA SETH</H2></a></div>
     <div id="menu">
       <ul>
         <li><a class="current">home</a></li>
