@@ -48,11 +48,17 @@ color:#000000;
 font-size:25px;
 font-weight:bold;
 }
+h3
+{
+color:#000000;
+font-size:23px;
+font-weight:bold;
+}
 /*----------------------menu-------------------------*/
 #menu{
 width:460px;
 height: auto;
-float:left;
+float:right;
 padding:105px 0 0 70px;
 }
 #menu ul{
