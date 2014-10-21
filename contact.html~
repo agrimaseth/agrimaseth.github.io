@@ -2,6 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Agrima Seth</title>
+<style>
+h4 {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+</style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" name="Agrima Seth"  />
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 <!--[if IE 6]>
@@ -21,6 +28,7 @@
         <li><a class="current">contact</a></li>
       </ul>
     </div>
+	</div>
   </div>
   <div id="middle_box">
     <div class="middle_box_content">
