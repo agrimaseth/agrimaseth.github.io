@@ -17,7 +17,7 @@
         <li><a href="index.html">home</a></li>
         <li><a href="about.html">about me</a></li>
        
-        <li><a href="projects">my projects</a></li>
+        <li><a href="projects.html">my projects</a></li>
         <li><a class="current">contact</a></li>
       </ul>
     </div>
