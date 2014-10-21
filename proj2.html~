@@ -32,8 +32,8 @@
        <p>Geometric Modelling presented some major disadvantages from being labour intensive to time consuming. Thus, I used the 3D warping technique. In this, several 2-D images were used and after mapping the corresponding pixels in these images Point Cloud Library was used to create their 3-D model in opencv using python.</p>
 
 	<p>The reult for the same is displayed below:</p>
-	 <img src="/home/agrima/website/images/dis.jpg" alt="The model could not be displayed" style="width:304px;height:228px">
-	<img src="/home/agrima/website/images/cloud.jpg" alt="The model could not be displayed" style="width:304px;height:228px">
+	 <img src="dis.jpg" alt="The model could not be displayed" style="width:304px;height:228px">
+	<img src="cloud.jpg" alt="The model could not be displayed" style="width:304px;height:228px">
 	
 	<p> After, the above implementation I performed a comparitive study of Geometric Modellinga and Image based Rendering.<a href="http://arxiv.org/abs/1409.5024">Pre-print</a> for which is at arxiv. </p>
       </div>
