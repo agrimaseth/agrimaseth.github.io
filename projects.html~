@@ -11,7 +11,7 @@
 <body>
 <div id="main_container">
   <div id="header">
-    <div id="logo"><h3>projects<h3></div>
+    <div id="logo"><h3>Projects<h3></div>
     <div id="menu">
       <ul>
         <li><a href="index.html">home</a></li>
@@ -35,9 +35,15 @@
           <li><a href="proj1.html">Geometric Modelling</a></li>
           <li><a href="proj2.html">Image Based Rendering</a></li>
           <li><a href="proj3.html">Embedded Solar Tracker</a></li>
+	  
+        </ol>
+	<div class="title_photos">Hacks</div>
+	<ol>
+	  <li><a href="proj6.html">Platform game using pygame</a></li>
           <li><a href="proj4.html">Online Examination System</a></li>
 	  <li><a href="proj5.html">Library Management System</a></li>
-        </ol>
+	</ol>
+
       </div>
     </div>
     <div class="right_content">
@@ -56,6 +62,12 @@
 	<h1><a href="proj3.html"> Solar Tracking System</a></h1>
 	<p>"An embedded system to track the position of the sun throughout the day to increase the efficiency of the sunlight harvesting systems "</p>
         <div class="news_details"><span class="date">28.12.2013</span></div>
+      </div>
+	<div class="title_journal">Research Work</div>
+	<div class="news_tab">
+	<h1> <a href="proj6.html">A basic mario platform game using pygame</a></h1>
+	<p>"My interest in Computer graphics led me into animations. This is my first animation using pygame.This game consists of two levels and rotating platforms which mario has to cross"</p>
+        <div class="news_details"><span class="date">22.10.2014</span></div>
       </div>
       <div class="news_tab">
 	<h1> <a href="proj4.html">Online Examination Application</a></h1>

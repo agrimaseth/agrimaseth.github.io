@@ -27,17 +27,16 @@
   <!</div>
   <div id="center_content">
     <div class="left_content">
-      <div class="title_photos">Embedded Solar Tracking System</div>
+      <div class="title_photos">A basic mario platform game using pygame</div>
       <div class="friends_list">
-       <p>Position of the sun continuously keeps changing throughout the day. Hence to make the solar devices more efficient; I created a device which changes direction with change in the light source position using arduino, servo motors as the rotatory mechanism. </p>
+       <p>My interest in Computer graphics led me into animations. This is my first animation using pygame.This game consists of two levels and rotating platforms which mario has to cross</p>
 
-	<p>The images for the same are:</p>
-	 <img src="/home/agrima/website/images/" alt="The model could not be displayed" style="width:304px;height:228px">
-	<p> I now plan on using MSP430 for the same purpose</p>
+	<p>The working video can be found below, its source code is available at github <a href="https://github.com/agrimaseth/games">link attached</a></p>
+	
       </div>
     </div>
     <div class="right_content">
-      <div class="title_journal">Research Work</div>
+      <div class="title_journal">Research Work and Hacks</div>
       <div class="news_tab">
         <h1><a href="proj1.html">Geometric Modelling and Rendering</a></h1>
         <p> "Recreating the real world using algorithms and mathematical models for the description of shapes. Subsequently using it for comparitive study with Image Based Rendering "</p>
@@ -49,23 +48,22 @@
         <div class="news_details"><span class="date">10.07.2014</span></div>
       </div>
       <div class="news_tab">
-	<h1> Solar Tracking System</h1>
+	<h1> <a href="proj3.html">Solar Tracking System</a></h1>
 	<p>"An embedded system to track the position of the sun throughout the day to increase the efficiency of the sunlight harvesting systems "</p>
         <div class="news_details"><span class="date">13.02.2008</span></div>
       </div>
-<div class="title_journal">Hacks</div>
+<h1> Hacks</h1>
 <div class="news_tab">
-	<h1><a href="proj6.html"> A basic mario platform game using pygame</a></h1>
-	<p>"Animated platform game using pygame"</p>
-        <div class="news_details"><span class="date">22.10.2014</span></div>
-      </div>
+	
+	
       <div class="news_tab">
+	
 	<h1><a href="proj4.html"> Online Examination Application</a></h1>
 	<p>"An automated system for conducting examinations online"</p>
         <div class="news_details"><span class="date">13.02.2008</span></div>
       </div>
       <div class="news_tab">
-	<h1> <a href="proj5.html">Library Management System</a></h1>
+	<h1> Library Management System<</h1>
 	<p>"A web application to manage the library issue-reissue-return-availability system"</p>
         <div class="news_details"><span class="date">13.02.2008</span></div>
       </div>
