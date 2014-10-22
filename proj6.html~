@@ -31,11 +31,8 @@
       <div class="friends_list">
        <p>My interest in Computer graphics led me into animations. This is my first animation using pygame.This game consists of two levels and rotating platforms which mario has to cross</p>
 
-	<p>The working video can be found below, its source code is available at github <a href="https://github.com/agrimaseth/games">link attached</a></p>
-	<video width="320" height="240" controls>
-		<source src="VID_20141022_012921.mp4" type="video/mp4">
-	Your browser does not support the video tag.
-	</video>
+	<p>The working video can be found at<a href="http://youtu.be/RDAecdcyvh8" target="_blank">Video</a>, its source code is available at github <a href="https://github.com/agrimaseth/games">link attached</a></p>
+	
 	
       </div>
     </div>
