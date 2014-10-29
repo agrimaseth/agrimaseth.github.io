@@ -19,6 +19,7 @@
         
         <li><a href="projects.html">my projects</a></li>
         <li><a href="contact.html">contact</a></li>
+	<li><a href="resume.pdf">Resume</a></li>
       </ul>
     </div>
   </div>
@@ -72,5 +73,5 @@
     <div class="copyright"> <img src="images/footer_logo.gif" alt="" /> </div>
   </div>
 </div>
-<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>
+<div align=center></div></body>
 </html>

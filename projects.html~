@@ -63,7 +63,7 @@
 	<p>"An embedded system to track the position of the sun throughout the day to increase the efficiency of the sunlight harvesting systems "</p>
         <div class="news_details"><span class="date">28.12.2013</span></div>
       </div>
-	<div class="title_journal">Research Work</div>
+	<div class="title_journal">Hacks</div>
 	<div class="news_tab">
 	<h1> <a href="proj6.html">A basic mario platform game using pygame</a></h1>
 	<p>"My interest in Computer graphics led me into animations. This is my first animation using pygame.This game consists of two levels and rotating platforms which mario has to cross"</p>
