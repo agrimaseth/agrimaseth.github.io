@@ -14,10 +14,11 @@
     <div id="logo"><a href=""><img src="images/logo.png" width="358" height="40" alt="" border="0" /></a></div>
     <div id="menu">
       <ul>
-        <li><a href="index.html">home</a></li>
-        <li><a href="about.html">about me</a></li>       
-        <li><a href="projects.html">my projects</a></li>
-        <li><a href="contact.html">contact</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>       
+        <li><a href="projects.html">My Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+	<li><a href="resume.pdf">Resume</a></li>
       </ul>
     </div>
   </div>
@@ -40,6 +41,12 @@
     </div>
     <div class="right_content">
       <div class="title_journal">Research Work</div>
+
+
+
+
+
+
       <div class="news_tab">
         <h1><a href="proj1.html">Geometric Modelling and Rendering</a></h1>
         <p> "Recreating the real world using algorithms and mathematical models for the description of shapes. Subsequently using it for comparitive study with Image Based Rendering "</p>
