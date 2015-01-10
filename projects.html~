@@ -14,10 +14,11 @@
     <div id="logo"><h3>Projects<h3></div>
     <div id="menu">
       <ul>
-        <li><a href="index.html">home</a></li>
-        <li><a href="about.html">about me</a></li>       
-        <li><a class="current">my projects</a></li>
-        <li><a href="contact.html">contact</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>       
+        <li><a class="current">My Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+	<li><a href="resume.pdf">Resume</a></li>
       </ul>
     </div>
   </div>
@@ -32,6 +33,7 @@
       <div class="title_photos">Projects</div>
       <div class="friends_list">
         <ol>
+	  <li><a href="proj7.html">Sparse Coding- A Machine Learning Technique for fault prediction in Cloud</a></li>
           <li><a href="proj1.html">Geometric Modelling</a></li>
           <li><a href="proj2.html">Image Based Rendering</a></li>
           <li><a href="proj3.html">Embedded Solar Tracker</a></li>
