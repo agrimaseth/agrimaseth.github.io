@@ -33,6 +33,7 @@
       <div class="title_photos">Projects</div>
       <div class="friends_list">
         <ol>
+	  <li><a href="proj8.html">Information Retrieval and Query Reformulation</a></li>
 	  <li><a href="proj7.html">Sparse Coding- A Machine Learning Technique for fault prediction in Cloud</a></li>
           <li><a href="proj1.html">Geometric Modelling</a></li>
           <li><a href="proj2.html">Image Based Rendering</a></li>
@@ -50,6 +51,13 @@
     </div>
     <div class="right_content">
       <div class="title_journal">Research Work</div>
+	<div class="news_tab">
+	<h1><a href="proj8.html">Information Retrieval and Query Reformulation</a></h1>
+        <p> "Indexing and evaluating the indexed ClueWeb12-B dataset and wrote an algorithm for automated query reformulation using
+	     concepts of graph theory"</p>.
+        <div class="news_details"><span class="date">30.07.2015</span></div>
+        </div>
+
 <div class="news_tab">
 	<h1><a href="proj7.html">Sparse Model and SVM for proactive fault detection</a></h1>
         <p> "Pro-active fault detection in Cloud System using Machine Learning Algorithms like- Sparse Coding and Single label SVM "</p>
