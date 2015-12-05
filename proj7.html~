@@ -28,7 +28,7 @@
   <!</div>
   <div id="center_content">
     <div class="left_content">
-      <div class="title_photos">Sparse Coding- A Machine Learning Technique for fault prediction in Cloud</div>
+      <div class="title_photos"><!--Sparse Coding- A--> Machine Learning Technique for fault prediction in Cloud</div>
       <div class="friends_list">
 	<BR>
        <p>During November 2014 I got an opprtunity to work as a research apprentice to  <a href= "http://www.mnit.ac.in/new/dept_cs/preprofile.php">Prof M.C. Govil</a> at <a href="http://www.mnit.ac.in/new/">Malaviya National Institute of Technology</a> on fault tolerance in cloud systems. </p>
