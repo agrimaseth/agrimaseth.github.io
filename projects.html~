@@ -33,7 +33,8 @@
       <div class="title_photos">Projects</div>
       <div class="friends_list">
         <ol>
-	 
+	  <li><a href="proj9.html">Geo-spatial Trends of News Dissemination on Twitter and Conventional News Channels</a><li>
+	  <li><a href="proj8.html">Information Retrieval and Query Reformulation</a></li>
 	  <li><a href="proj7.html">Sparse Coding- A Machine Learning Technique for fault prediction in Cloud</a></li>
           <li><a href="proj1.html">Geometric Modelling</a></li>
           <li><a href="proj2.html">Image Based Rendering</a></li>
@@ -51,6 +52,15 @@
     </div>
     <div class="right_content">
       <div class="title_journal">Research Work</div>
+
+		<div class="news_tab">
+	<h1><a href="proj9.html">Geo-spatial Trends of News Dissemination on Twitter and Conventional News Channels </a></h1>
+        <p> "Click to edit project descriptionA comparative study on flow of information about a catastrophic topic on twitter and conventional news channels. Awarded first position in Amalgam, alumni sponsored competition at Army Institute of Technology, 2016."</p>.
+        <div class="news_details"><span class="date">15.12.2015-15.02.16</span></div>
+        </div>	
+
+
+
 	<div class="news_tab">
 	<h1><a href="proj8.html">Information Retrieval and Query Reformulation</a></h1>
         <p> "Indexing and evaluating the indexed ClueWeb12-B dataset and wrote an algorithm for automated query reformulation using
@@ -89,11 +99,7 @@
 	<p>"An automated system for conducting examinations online"</p>
         <div class="news_details"><span class="date">23.08.2014</span></div>
       </div>
-      <div class="news_tab">
-	<h1><a href="proj5.html"> Library Management System</a></h1>
-	<p>"A web application to manage the library issue-reissue-return-availability system"</p>
-        <div class="news_details"><span class="date">23.08.2014</span></div>
-      </div>
+      
       
     </div>
     <div class="clear"></div>
