@@ -33,7 +33,7 @@
       <div class="title_photos">Projects</div>
       <div class="friends_list">
         <ol>
-	  <li><a href="proj9.html">Geo-spatial Trends of News Dissemination on Twitter $ Conventional News Channels</a></li>
+	  <li><a href="proj9.html">Geo-spatial Trends of News Dissemination on Twitter and Conventional News Channels</a></li>
 	  <li><a href="proj8.html">Information Retrieval and Query Reformulation</a></li>
 	  <li><a href="proj7.html">Sparse Coding- A Machine Learning Technique for fault prediction in Cloud</a></li>
           <li><a href="proj1.html">Geometric Modelling</a></li>
@@ -46,6 +46,7 @@
 	  <li><a href="proj6.html">Platform game using pygame</a></li>
           <li><a href="proj4.html">Online Examination System</a></li>
 	  <li><a href="proj5.html">Library Management System</a></li>
+	  <li><a href="">Basic Mario Platform game </a></li>
 	</ol>
 
       </div>
