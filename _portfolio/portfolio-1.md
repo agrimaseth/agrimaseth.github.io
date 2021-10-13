@@ -1,6 +1,6 @@
 ---
 title: "STUDYING DEPRESSION USING LINGUISTIC FEATURES FROM MULTIPLE SOCIAL MEDIA SOURCES"
-excerpt: "Leveraging social media and online personality tests to develop better machine learning models for depression diagnosis"
+excerpt: "(Masters thesis) Leveraging social media and online personality tests to develop better machine learning models for depression diagnosis"
 collection: portfolio
 ---
 
