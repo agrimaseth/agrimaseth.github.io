@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<embed src="{{ site.baseurl }}/files/AgrimaSeth_CV.pdf" width="600" height="700" type='application/pdf'>
+
+
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
