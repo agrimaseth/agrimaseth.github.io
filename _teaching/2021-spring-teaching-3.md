@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 #permalink: #/teaching/2015-spring-teaching-1
 venue: "University of Michigan, School of Information"
-date: 2020-05-01
+date: 2021-05-01
 location: "Ann Arbor, USA"
 ---
 
