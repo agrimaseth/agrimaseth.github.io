@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Ann Arbor, USA"
 ---
 
-Performed the duties as a graduate student instructor for the course. Helped students navigate professional communication (presentations and written reports) with industry clients for their capstone project. Link: https://www.si.umich.edu/programs/courses/485
+Performed the duties as a graduate student instructor for the course. Helped students navigate professional communication (presentations and written reports) with industry clients for their capstone project. [Link](https://www.si.umich.edu/programs/courses/485)
 
 <!-- Heading 1
 ======
