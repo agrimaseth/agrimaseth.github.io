@@ -248,7 +248,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  _covid19
+  #_covid19
   - scope:
       path: ""
       type: pages
