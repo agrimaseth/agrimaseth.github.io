@@ -251,7 +251,7 @@ defaults:
   #_covid19
   - scope:
       path: ""
-      type: pages
+      type: covid19
     values:
       layout: single
       author_profile: true
