@@ -10,6 +10,7 @@ redirect_from:
 
 Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information. I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Lyle Ungar](https://www.cis.upenn.edu/~ungar/). My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used.
 
+I also serve as the NLP head at [The Global Health Research Collective] (https://globalhealthresearchcollective.org/home/community/) and volunteer for [PathCheck Foundation] (https://www.pathcheck.org/india) and [TeachAids](https://teachaids.org/) on projects related to health-misinformation.
 <!-- advised by [Eytan Adar](http://www.cond.org/) and [Ceren Budak](http://cbudak.com/index.html). -->
 <!-- A data-driven personal website
 ======
