@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Agrima Seth"
 title_separator          : "-"
 name                     : &name "Agrima Seth"
-description              : &description "PH.D. student, School of Information, Computational Social Science"
+description              : &description "PH.D. candidate, School of Information, Computational Social Science"
 url                      : https://agrimaseth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agrimaseth/agrimaseth.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/agrimaseth/"
+  linkedin         : "agrimaseth/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
