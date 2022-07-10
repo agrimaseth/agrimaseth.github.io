@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Agrima Seth. I'm a third-year Ph.D. student at the University of Michigan School of Information, advised by [Eytan Adar](http://www.cond.org/) and [Ceren Budak](http://cbudak.com/index.html). 
+Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information. I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Lyle Ungar](https://www.cis.upenn.edu/~ungar/). My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used.
 
-I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I
-was advised by [Lyle Ungar](https://www.cis.upenn.edu/~ungar/). My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used.
-
-
+<!-- advised by [Eytan Adar](http://www.cond.org/) and [Ceren Budak](http://cbudak.com/index.html). -->
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
