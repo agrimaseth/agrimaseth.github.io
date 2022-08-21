@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /awards/
-title: "Awards and Recognition"
+title: "Awards and Leadership"
 author_profile: true
 # redirect_from: 
 #   - /awards/
