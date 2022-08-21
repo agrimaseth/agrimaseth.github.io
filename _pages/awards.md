@@ -22,6 +22,5 @@ Dept. 2012-2016.
 * Student organizer at [Social Media Influencers and the New Political Economy in South Asia and Africa](https://joyojeet.people.si.umich.edu/influencers.htm)
 * Student Rep, UMSI Doctoral Committee, 2022.
 * Student volunteer at Grace Hopper Conference, 2017.
-*
 
 
