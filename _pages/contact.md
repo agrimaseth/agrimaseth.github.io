@@ -18,6 +18,6 @@ Flickr: staeiou
 Google Scholar: author:geiger-r-stuart
 LinkedIn: rstuartgeiger
 Wikipedia: staeiou -->
-* LinkedIn: https://www.linkedin.com/in/agrimaseth
+* LinkedIn: agrimaseth
 * University of Michigan: North Quad, School of Information
 

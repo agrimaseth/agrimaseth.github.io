@@ -1,10 +1,11 @@
 ---
+layout: archive
 permalink: /covid/
 title: "COVID-19 Projects"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /covid/
+  - /covid.html
 ---
 
 ## COVID-19 related projects
