@@ -6,8 +6,11 @@ author_profile: true
 redirect_from: 
   - /awards/
   - /awards.html
-
 ---
 
-List of my awards
+### Recognitions
+List of my recognition 
+
+### Awards
+List of awards 
 
