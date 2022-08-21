@@ -6,11 +6,12 @@ author_profile: true
 redirect_from: 
   - /covid/
   - /covid.html
+
 ---
 
-## COVID-19 related projects
+{% include base_path %}
 
-<!-- Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like “stuart geiger email” and get wrong pages on my site.  Here are some other places on the Internet where I reside. -->
-
-Here are a list of COVID-19 projects that I was involved in.
+{% for post in site.covid19 reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 

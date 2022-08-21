@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  # covid19:
-  #   output: true
-  #   permalink: /:collection/:path/
+  covid19:
+    output: true
+    permalink: /:collection/:path/
 
 
 
