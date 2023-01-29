@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information, advised by Prof. David Jurgens and Prof. Joyojeet Pal. I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/). I am interested in creating context-aware computational models that scale across languages and are sensitive to cultural contexts. My projects focus on understanding how cultural values, social cues, group norms influence and drive user behavior.
+Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information, advised by [Prof. David Jurgens](https://jurgens.people.si.umich.edu/) and [Prof. Joyojeet Pal](http://joyojeet.people.si.umich.edu/). I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/). I am interested in creating context-aware computational models that scale across languages and are sensitive to cultural contexts. My projects focus on understanding how cultural values, social cues, group norms influence and drive user behavior.
 
 
 <!--My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used. -->
