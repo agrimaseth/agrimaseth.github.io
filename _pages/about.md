@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information. I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Lyle Ungar](https://www.cis.upenn.edu/~ungar/). My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used.
+Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information, advised by Prof. David Jurgens and Prof. Joyojeet Pal. I completed my BE in Information Technology (2016) and MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/). I am interested in creating context-aware computational models that scale across languages and are sensitive to cultural contexts. My projects focus on understanding how cultural values, social cues, group norms influence and drive user behavior.
 
-I also serve as the NLP head at [The Global Health Research Collective](https://globalhealthresearchcollective.org/home/community/) and volunteer for [PathCheck Foundation](https://www.pathcheck.org/india) and [TeachAids](https://teachaids.org/) on projects related to health-misinformation.
+
+<!--My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used. -->
+
+I have interned at Snap Inc. ([Computational Social Science](https://research.snap.com/team/category/computational-social-science.html)) and [CERN](https://home.cern/). I was also a recipient of the [2022 Snap Fellowship Honorable Mentions](https://research.snap.com/fellowships.html). I also serve as the NLP head at [The Global Health Research Collective](https://globalhealthresearchcollective.org/home/community/) and volunteer for [PathCheck Foundation](https://www.pathcheck.org/india) and [TeachAids](https://teachaids.org/) on projects related to health-misinformation.
+
+
 
 
 <!-- advised by [Eytan Adar](http://www.cond.org/) and [Ceren Budak](http://cbudak.com/index.html). -->
