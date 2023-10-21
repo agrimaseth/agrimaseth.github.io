@@ -3,7 +3,7 @@ title: "Cultural Differences in Friendship Network Behaviors: A Snapchat Case St
 collection: publications
 # permalink: /publication/2015-10-01-paper-title-number-3
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-#date: 2022-06-26
+date: 2023-04-25
 venue: 'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems'
 [Video] (https://www.youtube.com/watch?v=vhDKBMltaoI)
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
