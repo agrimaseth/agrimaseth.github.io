@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information. I completed my MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and BE in Information Technology (2016) at [AIT, University of Pune](https://www.aitpune.com/). Broadly speaking, I am interested in Human Centered NLP. I am interested in studying and creating context-aware computational models that are sensitive to cultural contexts. My projects focus on understanding how cultural values, social cues, group norms influence and drive user behavior.
+Hi, I am Agrima Seth. I'm a Ph.D. candidate at the University of Michigan School of Information. My work lies at the intersection of HCI and NLP to study the existing and missing cultural contexts in technologies. I focus on (a) understanding the cultural knowledge and values encoded in language technologies, and (b) studying how cultural norms and values shape human interaction with technologies.
+
+
+
+I completed my MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/) and BE in Information Technology (2016) at [AIT, University of Pune](https://www.aitpune.com/). Broadly speaking, I am interested in Human Centered NLP. I am interested in studying and creating context-aware computational models that are sensitive to cultural contexts. My projects focus on understanding how cultural values, social cues, group norms influence and drive user behavior.
 
 
 <!--advised by [Prof. David Jurgens](https://jurgens.people.si.umich.edu/) and [Prof. Joyojeet Pal](http://joyojeet.people.si.umich.edu/) My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used.scale across languages and -->
