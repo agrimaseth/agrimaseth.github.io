@@ -1,5 +1,5 @@
 ---
-title: "Determining the Contextual Appropriateness of Messages through Modeling Social Relationships"
+title: "Your spouse needs professional help: Determining the Contextual Appropriateness of Messages through Modeling Social Relationships"
 collection: publications
 # permalink: /publication/2015-10-01-paper-title-number-3
 #excerpt: '[Video] (https://www.youtube.com/watch?v=vhDKBMltaoI)'
@@ -11,4 +11,4 @@ citation: 'Jurgens, D., Seth, A., Sargent, J., Aghighi, A., & Geraci, M. (2023, 
 
 ---
 <!-- This paper is about the number 3. The number 4 is left for future work.[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). [Video] (https://www.youtube.com/watch?v=vhDKBMltaoI)
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). [Video] (https://www.youtube.com/watch?v=vhDKBMltaoI)-->
