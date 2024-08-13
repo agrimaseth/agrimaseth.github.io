@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="text-align: center; color: #ff0000;">
   I'm on the job market for 2025!!!
-  Open to academic and industry research roles focused on Human-Centered, Cross-cultural, and responsible AI.
+  Open to academic and industry research roles focused on Human-Centered, Cross-cultural, and Responsible AI.
 </p>
 
 I am a Ph.D. candidate at the University of Michigan School of Information, advised by [Kentaro Toyama.](https://www.si.umich.edu/people/kentaro-toyama). My research is at the intersection of HCI and NLP to study the existing and missing cultural contexts in technologies. I focus on (a) understanding the cultural knowledge and biases encoded in language models, and (b) understanding how cultural norms and values drive user interaction with technologies. Prior to this, I completed my MS in Computer & Information Science (2018) at the University of Pennsylvania, where I was advised by [Prof. Lyle Ungar](https://www.cis.upenn.edu/~ungar/), and BE in Information Technology (2016) at [AIT, University of Pune](https://www.aitpune.com/). 
