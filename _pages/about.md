@@ -19,8 +19,12 @@ I am a Ph.D. candidate at the University of Michigan School of Information, advi
 
 <!--Broadly speaking, I am interested in Human Centered NLP. I am interested in studying and creating context-aware computational models that are sensitive to cultural contexts. My projects focus on understanding how cultural values, social cues, group norms influence and drive user behavior.advised by [Prof. David Jurgens](https://jurgens.people.si.umich.edu/) and [Prof. Joyojeet Pal](http://joyojeet.people.si.umich.edu/) My research interests include natural language processing and computational social science. In particular, I am interested in developing multilingual computational methods to better understand (1) the relation between cultural values and polarising, controversial topics, (2) the varied manifestation of attitudes, and (3) the different moderation techniques used.scale across languages and -->
 
+Industry Experience
+======
 I have gained substantial industry research experience through internships at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project-vellm/), Snap Inc. ([Computational Social Science](https://research.snap.com/team/user-modeling-and-personalization.html)) and [CERN](https://home.cern/). My work has been recognized with an the [2022 Snap Fellowship Honorable Mentions](https://research.snap.com/fellowships.html). 
 
+Volunteering and Service
+======
 In addition to my research, I served as the NLP Head at [The Global Health Research Collective](https://globalhealthresearchcollective.org/home/community/). I have also volunteered with [PathCheck Foundation](https://www.pathcheck.org/india) and [TeachAids](https://teachaids.org/) contributing to projects aimed at combating COVID-19-related misinformation.
 
 
