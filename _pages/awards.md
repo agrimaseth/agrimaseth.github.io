@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 ### Recognitions and Awards
-* Awarded the Google PhD Fellowship 2024
+* Awarded the [Google PhD Fellowship 2024](https://research.google/programs-and-events/phd-fellowship/recipients/)
 * Recipient of the "Honorable Mention" for the [2022 Snap Fellowship](https://research.snap.com/fellowships.html).
 * My work on using NLP methods to combat COVID-19 related misinformation and for creating automatic summaries of reliable articles to help make verifiable information more accessible was recognised by the TeachAids community on International Youth Day. [Link to article](https://teachaids.org/updates/international-youth-day-2022/)
 * Ranked 2nd among 4789 students of Information Technology in all colleges of University of Pune.
