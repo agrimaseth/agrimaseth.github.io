@@ -21,7 +21,7 @@ I am a Ph.D. candidate at the University of Michigan School of Information, advi
 
 Industry Experience
 ======
-I have gained substantial industry research experience through internships at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project-vellm/), Snap Inc. ([Computational Social Science](https://research.snap.com/team/user-modeling-and-personalization.html)) and [CERN](https://home.cern/). My work has been recognized with an the [2022 Snap Fellowship Honorable Mentions](https://research.snap.com/fellowships.html). 
+I have gained substantial industry research experience through internships at [Microsoft Research](https://www.microsoft.com/en-us/research/project/project-vellm/), Snap Inc. ([Computational Social Science](https://research.snap.com/team/user-modeling-and-personalization.html)) and [CERN](https://home.cern/). My work has been recognized with the [2024 Google PhD Fellowship] (https://research.google/programs-and-events/phd-fellowship/recipients/), [2022 Snap Fellowship Honorable Mentions](https://research.snap.com/fellowships.html). 
 
 Volunteering and Service
 ======
